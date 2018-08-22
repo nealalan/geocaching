@@ -4,6 +4,7 @@
 - [Friends](https://www.geocaching.com/my/myfriends.aspx)
 - [View Public Profile](https://www.geocaching.com/p/default.aspx) - [View Public Profile (old page)](https://www.geocaching.com/profile/)
 - [Statistics](https://www.geocaching.com/my/statistics.aspx)
+- [Souvenirs](https://www.geocaching.com/my/souvenirs.aspx)
 
 
 ## Geocaching
@@ -60,6 +61,12 @@
   - [TB Logs - Retrieved from a GC](https://www.geocaching.com/my/logs.aspx?s=2&lt=5}
   - [TB Logs - Visit Logs](https://www.geocaching.com/my/logs.aspx?s=2&lt=75}
   - [TB Logs - Write Note](https://www.geocaching.com/my/logs.aspx?s=2&lt=3)
-  
-  
-  
+
+## Settings
+- [Profile Info](https://www.geocaching.com/account/settings/profile)
+- [Change Passwd](https://www.geocaching.com/account/settings/changepassword)
+- [Home Loc](https://www.geocaching.com/account/settings/homelocation)
+- [Email Pref](https://www.geocaching.com/account/settings/emailpreferences)
+- [App Authorizations](https://www.geocaching.com/account/settings/authorizations)
+- [Membership](https://www.geocaching.com/account/settings/membership)
+- [Other Preferences](https://www.geocaching.com/account/settings/preferences)
