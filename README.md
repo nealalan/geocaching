@@ -13,7 +13,7 @@
 - [Your GC Logs - All](https://www.geocaching.com/my/logs.aspx?s=1)
   - [GC Logs This Month (Max 15 Logs Shown)](https://www.geocaching.com/my/geocaches.aspx)
   - [GC Logs - Archived](https://www.geocaching.com/my/logs.aspx?s=1&lt=5)
-  - [GC Logs - Attended]](https://www.geocaching.com/my/logs.aspx?s=1&lt=10)
+  - [GC Logs - Attended](https://www.geocaching.com/my/logs.aspx?s=1&lt=10)
   - [GC Logs - Didn't Find](https://www.geocaching.com/my/logs.aspx?s=1&lt=3)
   - [GC Logs - Enabled](https://www.geocaching.com/my/logs.aspx?s=1&lt=23)
   - [GC Logs - Found It](https://www.geocaching.com/my/logs.aspx?s=1&lt=2)
@@ -58,8 +58,8 @@
   - [TB Logs - Dropped Off](https://www.geocaching.com/my/logs.aspx?s=2&lt=10)
   - [TB Logs - Grabbed (not from a GC)](https://www.geocaching.com/my/logs.aspx?s=2&lt=2)
   - [TB Logs - Marked Missing](https://www.geocaching.com/my/logs.aspx?s=2&lt=16)
-  - [TB Logs - Retrieved from a GC](https://www.geocaching.com/my/logs.aspx?s=2&lt=5}
-  - [TB Logs - Visit Logs](https://www.geocaching.com/my/logs.aspx?s=2&lt=75}
+  - [TB Logs - Retrieved from a GC](https://www.geocaching.com/my/logs.aspx?s=2&lt=5)
+  - [TB Logs - Visit Logs](https://www.geocaching.com/my/logs.aspx?s=2&lt=75)
   - [TB Logs - Write Note](https://www.geocaching.com/my/logs.aspx?s=2&lt=3)
 
 ## Settings
@@ -70,3 +70,5 @@
 - [App Authorizations](https://www.geocaching.com/account/settings/authorizations)
 - [Membership](https://www.geocaching.com/account/settings/membership)
 - [Other Preferences](https://www.geocaching.com/account/settings/preferences)
+
+Updated: 2018-08-21
