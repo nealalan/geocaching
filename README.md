@@ -1,4 +1,4 @@
-# nealalan.github.io/geocaching
+# [nealalan.github.io](https://nealalan.github.io)/[geocaching](https://nealalan.github.io/geocaching)
 - [New Dashboard](https://www.geocaching.com/account/dashboard) and [Old Dashboard](https://www.geocaching.com/my/default.aspx) - personally I hate this page 
 - [Message Center](https://www.geocaching.com/account/messagecenter)
 - [Friends](https://www.geocaching.com/my/myfriends.aspx)
@@ -24,10 +24,7 @@
   - [GC Logs - Temp Disable](https://www.geocaching.com/my/logs.aspx?s=1&lt=22)
   - [GC Logs - Will Attend](https://www.geocaching.com/my/logs.aspx?s=1&lt=9)
   - [GC Logs - Write Notes](https://www.geocaching.com/my/logs.aspx?s=1&lt=4)
- - [Your Benchmarks](https://www.geocaching.com/my/logs.aspx?s=3)
-  - [Search Benchmarks](https://www.geocaching.com/mark/nearest.aspx?)
- - [Your Hides](https://www.geocaching.com/my/owned.aspx) 
-
+ 
   
 ## Geocache searching and tracking
 - [Routes](https://www.geocaching.com/my/userroutes.aspx) - Point A to Point B
@@ -62,6 +59,11 @@
   - [TB Logs - Visit Logs](https://www.geocaching.com/my/logs.aspx?s=2&lt=75)
   - [TB Logs - Write Note](https://www.geocaching.com/my/logs.aspx?s=2&lt=3)
 
+## Benchmarks
+- [Your Benchmark Logs - All](https://www.geocaching.com/my/logs.aspx?s=3)
+ - [Search Benchmarks](https://www.geocaching.com/mark/nearest.aspx?)
+ - [Your Hides](https://www.geocaching.com/my/owned.aspx) 
+
 ## Settings
 - [Profile Info](https://www.geocaching.com/account/settings/profile)
 - [Change Passwd](https://www.geocaching.com/account/settings/changepassword)
@@ -71,4 +73,5 @@
 - [Membership](https://www.geocaching.com/account/settings/membership)
 - [Other Preferences](https://www.geocaching.com/account/settings/preferences)
 
-Updated: 2018-08-21
+Updated: 2018-12-28
+[[edit](https://github.com/nealalan/geocaching/edit/master/README.md)]
