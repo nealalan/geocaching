@@ -74,4 +74,5 @@
 - [Other Preferences](https://www.geocaching.com/account/settings/preferences)
 
 Updated: 2018-12-28
+
 [[edit](https://github.com/nealalan/geocaching/edit/master/README.md)]
