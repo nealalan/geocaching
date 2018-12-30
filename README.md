@@ -73,6 +73,14 @@
 - [Membership](https://www.geocaching.com/account/settings/membership)
 - [Other Preferences](https://www.geocaching.com/account/settings/preferences)
 
+# Geocaches I Own
+## Traditional
+- [GC7TRGE - ☕](https://www.geocaching.com/geocache/GC7TRGE) D:1.5, T:1.5, N 39° 39.142 W 104° 46.365
+- [GC7VX99 - 🌱 s i m p l e](https://www.geocaching.com/geocache/GC7VX99_s-i-m-p-l-e) D:2, T:1.5, N 39° 36.515 W 104° 44.780
+## Events
+- [GC7TWCD - 🚲Bike the Arsenal Perimeter Trail (31 caches)](https://www.geocaching.com/geocache/GC7TWCD_bike-the-arsenal-perimeter-trail-31-caches) D:1, T:3, N 39° 47.927 W 104° 47.418
+
+
 Updated: 2018-12-28
 
 [[edit](https://github.com/nealalan/geocaching/edit/master/README.md)]
