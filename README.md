@@ -76,17 +76,17 @@
 # Geocaches I Own
 
 ## Traditional
-- [GC5WR2H - Fashioned up with a View!](https://www.geocaching.com/geocache/GC5WR2H_fashioned-up-with-a-view) D:2.5, T:1, N 41° 58.476 W 087° 52.037
-- [GC5YE0Y - Chicago Lakefront Trail - Over a Trail](https://www.geocaching.com/geocache/GC5YE0Y_chicago-lakefront-trail-over-a-trail) D:2.5, T:4, N 41° 58.388 W 087° 38.798
+- [GC5WR2H - 👕👚👘👞💍👜Fashioned up with a View!](https://www.geocaching.com/geocache/GC5WR2H_fashioned-up-with-a-view) D:2.5, T:1, N 41° 58.476 W 087° 52.037
+- [GC5YE0Y - 🌳Chicago Lakefront Trail - Over a Trail](https://www.geocaching.com/geocache/GC5YE0Y_chicago-lakefront-trail-over-a-trail) D:2.5, T:4, N 41° 58.388 W 087° 38.798
 - [GC6QCV5 - Wed Thur Fri is Right!](https://www.geocaching.com/geocache/GC6QCV5_wed-thur-fri-is-right) D:3.5, T:4.5, N 41° 58.928 W 087° 39.061
-- [GC7DDF0 - Sugared up with a View!](https://www.geocaching.com/geocache/GC7DDF0_sugared-up-with-a-view) D:2.5, T:1.5, N 41° 58.713 W 087° 52.001
+- [GC7DDF0 - 🍬Sugared up with a View!](https://www.geocaching.com/geocache/GC7DDF0_sugared-up-with-a-view) D:2.5, T:1.5, N 41° 58.713 W 087° 52.001
 - [GC7TRGE - ☕](https://www.geocaching.com/geocache/GC7TRGE) D:1.5, T:1.5, N 39° 39.142 W 104° 46.365
 - [GC7VX99 - 🌱 s i m p l e](https://www.geocaching.com/geocache/GC7VX99_s-i-m-p-l-e) D:2, T:1.5, N 39° 36.515 W 104° 44.780
 - [GC81T9K - 🌲🍂🕷️⛄= NATURE](https://www.geocaching.com/geocache/GC81T9K_nature) D:2, T:1.5, N 40° 20.410 W 105° 34.135 
 
 ## Puzzle 
-- [GC5JHPJ - Under the Arch](https://www.geocaching.com/geocache/GC5JHPJ_under-the-arch) D:4.5, T:2, N 41° 52.996 W 087° 37.171
-- [GC6H15C - Machinae Novae](https://www.geocaching.com/geocache/GC6H15C_machinae-novae) D:3, T:2.5, N 41° 52.874 W 087° 37.064
+- [GC5JHPJ - 👇Under the Arch](https://www.geocaching.com/geocache/GC5JHPJ_under-the-arch) D:4.5, T:2, N 41° 52.996 W 087° 37.171
+- [GC6H15C - 🌉🚲Machinae Novae](https://www.geocaching.com/geocache/GC6H15C_machinae-novae) D:3, T:2.5, N 41° 52.874 W 087° 37.064
 
 ## Events
 - [GC7DDGM - Pumpkin Spice Coffee, Old Town, Lincoln Park Zoo](https://www.geocaching.com/geocache/GC7DDGM_pumpkin-spice-coffee-old-town-lincoln-park-zoo) D:1, T:1, N 41° 54.687 W 087° 38.089
